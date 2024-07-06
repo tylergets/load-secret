@@ -1,0 +1,5 @@
+src
+.direnv
+.devenv
+node_modules
+*.nix
