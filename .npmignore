@@ -1,5 +1,6 @@
 src
 .direnv
 .devenv
+.idea
 node_modules
 *.nix
